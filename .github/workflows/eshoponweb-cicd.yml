@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-fb
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: SUBSCRIPTION-ID
+  SUBSCRIPTION-ID: bdd6c4eb-6389-48d9-a8c5-60b05d82bf62
   WEBAPP-NAME: az400-webapp-ferdi
 
 
